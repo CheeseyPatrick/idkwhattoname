@@ -1,5 +1,6 @@
 # idkwhattoname
 discord brawl stars link clicker
+https://youtu.be/oYYiJWyBZNw
 
 ## Why?
 This script was created as a way to quickly enter Brawl Stars matches, in the case where a Brawl Stars invite is sent over Discord. When this script receives a message that a Brawl Stars invite link was sent in a selected Discord channel, it will type the join code using pyautogui then click your mouse. 
